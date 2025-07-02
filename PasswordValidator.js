@@ -43,5 +43,6 @@ while (!isValid) {
  // If all the requirements is passed
  isValid = true;
 }
+
 //Printing the final output 
 console.log("Your password has been accepted. \nYou have successfully created a password that meets all the given requirements. \nThank you!");
